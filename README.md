@@ -13,6 +13,6 @@ Conclusion 1 entrega: Falso, no se estan utilizando correctamente los incentivos
 Hipotesis 2 entrega: -A mayor nivel de incentivo otorgado, mayor productividad tendran los equipos en sus tareas considerando la excesiva carga laboral.
                      - Se busca predecir el nivel de productividad de los equipos
 
-Conclusion 2 entrega: Las relaciones entre variables no tienen suficiente lógica, se puede observar a simple vista la mala utilizacion de los recursos y como estos no generan la motivacion ni el rendimiento esperado. Se puede predecir con cierto grado de certeza el desempeño de un equipo en base a las horas extra e incentivos otorgados, pero hay otras variables que necesariamente deben complementar las variables para poder realizar un análisis adecuado del caso.
+Conclusion 2 entrega: Las relaciones entre variables no tienen suficiente lógica, se puede observar a simple vista la mala utilizacion de los recursos y como estos no generan la motivacion ni el rendimiento esperado. Se puede predecir con cierto grado de certeza el desempeño de un equipo en base a las horas extra e incentivos otorgados, pero hay otras variables que necesariamente deben complementar las incluidas en el data set para poder realizar un análisis adecuado del caso.
 
 
